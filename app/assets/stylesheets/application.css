@@ -1,0 +1,29 @@
+html {
+    background: rgb(121, 210, 243);
+    background-repeat: no-repeat;
+    color: white;
+}
+
+body {
+    background-color: unset;
+    color: rgb(59, 0, 0);
+    font-family: var;
+}
+
+.words {
+    color: black;
+}
+
+.table {
+    background: white;
+    text-align: center;
+}
+
+.form {
+    background: whitesmoke;
+    width: 300px;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 100px auto;
+    text-align: center;
+}
